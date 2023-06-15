@@ -1,3 +1,4 @@
+[![Run Selenium On GitHub Action](https://github.com/og1grib/UISwagLabs/actions/workflows/Selenium-Action_Template.yaml/badge.svg)](https://github.com/og1grib/UISwagLabs/actions/workflows/Selenium-Action_Template.yaml)
 # UISwagLabs
 UI test python selenium
 
